@@ -1,2 +1,1 @@
-# introdu-ogithurb
-aula de introdução ao githurb.
+Arquivo teste criado na pasta teste.
